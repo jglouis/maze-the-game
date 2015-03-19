@@ -1,0 +1,1 @@
+Maze is a first person labyrinth explorer with an ever changing layout. (WIP)
